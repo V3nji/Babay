@@ -5,7 +5,7 @@
 
 Предложение: Нарисовать картину
 
-![none](https://github.com/V3nji/selukova.github.io/blob/d44aac3ea8efe8251737ddac71d1efa5110d6bda/lab%201/bandicam%202021-09-20%2013-04-05-965.jpg)
+![none](https://github.com/V3nji/selukova.github.io/blob/e45ee388ba881ed0f308c08608e6489dfbd9c4be/lab%201/01_A-0.png)
 
 Предложение: Художник рисует картину на холсте с помощью кистей и красок на заказ
 
