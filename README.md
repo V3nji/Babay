@@ -11,11 +11,11 @@
 
 ## Диаграмма классов
 
-![none](https://github.com/V3nji/selukova.github.io/blob/cfa568fd8b3a63f7e59641f53893add355158bd3/lab%201/%D1%8B.png)
+![none](https://github.com/V3nji/selukova.github.io/blob/c2e7ab1ab9b1da5ba62f05cad5e5b78c29dc1230/lab%201/d1.png)
 
 ## Диаграмма прецедентов
 
-![none](https://github.com/V3nji/selukova.github.io/blob/ce94f772d1e55a0be7018c6f37a7e10c4ad30c83/lab%201/%D1%8B3.png)
+![none](https://github.com/V3nji/selukova.github.io/blob/c2e7ab1ab9b1da5ba62f05cad5e5b78c29dc1230/lab%201/d2.png)
 
 ## Лабораторная 2
 
