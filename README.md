@@ -5,7 +5,7 @@
 
 Предложение: Нарисовать картину
 
-![none](https://github.com/V3nji/selukova.github.io/blob/f50e5a1ca4671b77facdfa0dbbf269241cfaca63/bandicam%202021-09-20%2013-04-05-965.jpg)
+![none](https://github.com/V3nji/selukova.github.io/blob/d44aac3ea8efe8251737ddac71d1efa5110d6bda/lab%201/bandicam%202021-09-20%2013-04-05-965.jpg)
 
 Ссылки на доп.материалы
 
