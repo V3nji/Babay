@@ -15,6 +15,8 @@
 
 ## Диаграмма прецедентов
 
+![none](https://github.com/V3nji/selukova.github.io/blob/ce94f772d1e55a0be7018c6f37a7e10c4ad30c83/lab%201/%D1%8B3.png)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
