@@ -55,11 +55,11 @@ A1 Художник получает правки от клиентов и да�
 
 #### Диаграмма последовательности
 
-![none]()
+![none](https://github.com/V3nji/selukova.github.io/blob/main/lab%203/m1.png)
 
 #### ER-диаграмма (ERD)
 
-![none]()
+![none](https://github.com/V3nji/selukova.github.io/blob/main/lab%203/m2.png)
 
 ### Лабораторная 4
 
