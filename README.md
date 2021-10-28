@@ -17,6 +17,7 @@
 
 ![none](https://github.com/V3nji/selukova.github.io/blob/c2e7ab1ab9b1da5ba62f05cad5e5b78c29dc1230/lab%201/d2.png)
 
+##
 ## Лабораторная 2
 
 ### IDEF0 (контекстная)
