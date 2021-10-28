@@ -9,11 +9,11 @@
 
 Предложение: Художник рисует картину на холсте с помощью кистей и красок на заказ
 
-#### Диаграмма классов
+1. Диаграмма классов
 
 ![none](https://github.com/V3nji/selukova.github.io/blob/c2e7ab1ab9b1da5ba62f05cad5e5b78c29dc1230/lab%201/d1.png)
 
-#### Диаграмма прецедентов
+2. Диаграмма прецедентов
 
 ![none](https://github.com/V3nji/selukova.github.io/blob/c2e7ab1ab9b1da5ba62f05cad5e5b78c29dc1230/lab%201/d2.png)
 
